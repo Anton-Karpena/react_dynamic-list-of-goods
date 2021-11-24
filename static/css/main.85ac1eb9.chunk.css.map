@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,QACE,gBAAiB,CADnB,cAII,cAAe","file":"main.85ac1eb9.chunk.css","sourcesContent":[".button {\n  margin-left: 10px;\n\n  &:hover {\n    cursor: pointer;\n  }\n}\n"]}
